@@ -1,1 +1,173 @@
-Test
+TERMS AND CONDITIONS FOR fin294
+
+Last updated: 26 April 2026
+
+These Terms and Conditions (“Terms”) govern your access to and use of the fin294 mobile application (“the App”, “we”, “us”, or “our”). By downloading, accessing, or using fin294, you agree to be bound by these Terms.
+
+If you do not agree with these Terms, you must not use the App.
+
+------------------------------------
+1. ELIGIBILITY
+------------------------------------
+
+You must be at least 18 years old to use fin294.
+
+By using the App, you confirm that you meet this age requirement and have the legal capacity to enter into these Terms.
+
+------------------------------------
+2. DESCRIPTION OF SERVICE
+------------------------------------
+
+fin294 is a personal finance and group expense management application that allows users to:
+- Track personal income and expenses
+- Manage group expenses and settlements
+- View calculated balances for shared expenses
+- Redirect payments to third-party UPI applications
+
+fin294 does not provide financial, legal, or investment advice.
+
+------------------------------------
+3. USER RESPONSIBILITIES
+------------------------------------
+
+You agree to:
+- Provide accurate and complete information
+- Maintain the confidentiality of your account access
+- Use the App only for lawful purposes
+- Respect other users and their data
+
+You agree not to:
+- Misuse or exploit the App
+- Attempt unauthorized access to systems or data
+- Use the App for fraudulent, abusive, or harmful activities
+
+------------------------------------
+4. GROUP EXPENSES AND CALCULATIONS
+------------------------------------
+
+Expense calculations and balances are generated based on information provided by users.
+
+fin294:
+- Does not verify the accuracy of user-entered data
+- Is not responsible for disputes between users
+- Does not guarantee correctness of shared expense entries
+
+Users are responsible for resolving any disagreements related to group expenses.
+
+------------------------------------
+5. PAYMENTS AND THIRD-PARTY SERVICES
+------------------------------------
+
+fin294 does not process or handle payments.
+
+When initiating a payment:
+- Users are redirected to third-party UPI applications
+- All payment transactions are governed by the respective UPI provider’s terms and policies
+
+fin294 is not responsible for:
+- Failed payments
+- Payment delays
+- Errors or disputes involving third-party payment services
+
+------------------------------------
+6. DATA AND PRIVACY
+------------------------------------
+
+Your use of the App is subject to the fin294 Privacy Policy.
+
+The Privacy Policy explains:
+- What data is collected
+- How data is used and shared
+- How data can be deleted
+- User rights and protections
+
+------------------------------------
+7. ACCOUNT RESTRICTIONS AND TERMINATION
+------------------------------------
+
+fin294 reserves the right to restrict, suspend, or terminate access to the App if:
+- These Terms are violated
+- Misuse or abuse is detected
+- Required to comply with legal obligations
+- Necessary to protect the service or other users
+
+Account termination may result in loss of access to data.
+
+------------------------------------
+8. AVAILABILITY AND MODIFICATIONS
+------------------------------------
+
+We may:
+- Update or modify App features
+- Add or remove functionality
+- Temporarily or permanently discontinue the App
+
+We do not guarantee uninterrupted or error-free access to the App.
+
+------------------------------------
+9. DISCLAIMER OF WARRANTIES
+------------------------------------
+
+The App is provided on an “as is” and “as available” basis.
+
+fin294 makes no warranties regarding:
+- Accuracy of financial data
+- Availability of services
+- Fitness for a particular purpose
+
+To the maximum extent permitted by law, all warranties are disclaimed.
+
+------------------------------------
+10. LIMITATION OF LIABILITY
+------------------------------------
+
+To the extent permitted by applicable law, fin294 shall not be liable for:
+- Financial losses
+- Indirect or consequential damages
+- Disputes between users
+- Data loss arising from user actions
+- Third-party service failures
+
+Your use of the App is at your own risk.
+
+------------------------------------
+11. INDEMNIFICATION
+------------------------------------
+
+You agree to indemnify and hold harmless fin294 from any claims, damages, or liabilities arising from:
+- Your use of the App
+- Violation of these Terms
+- Violation of any applicable laws or third-party rights
+
+------------------------------------
+12. GOVERNING LAW AND JURISDICTION
+------------------------------------
+
+These Terms shall be governed by and interpreted in accordance with the laws of India.
+
+Any disputes shall be subject to the jurisdiction of the courts located in India.
+
+------------------------------------
+13. CHANGES TO THESE TERMS
+------------------------------------
+
+These Terms may be updated from time to time to reflect:
+- Changes in App functionality
+- Legal or regulatory requirements
+- Operational needs
+
+The “Last updated” date will indicate when changes were made. Continued use of the App indicates acceptance of the revised Terms.
+
+------------------------------------
+14. CONTACT INFORMATION
+------------------------------------
+
+For questions or concerns regarding these Terms, contact:
+
+Email: kalaichelvan294@gmail.com
+Developer: fin294 Team  
+Country: India
+
+------------------------------------
+END OF TERMS AND CONDITIONS
+------------------------------------

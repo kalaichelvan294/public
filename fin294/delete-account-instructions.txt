@@ -1,0 +1,22 @@
+Account Deletion – fin294
+
+Users can delete their fin294 account at any time.
+
+How to delete your account:
+1. Open the fin294 Android app
+2. Sign in using your Google account
+3. Go to Settings
+4. Select “Delete Account”
+5. Confirm deletion
+
+What happens after deletion:
+- Your fin294 account is permanently deleted immediately
+- All personal and financial data is erased
+- Authentication credentials are removed
+- Archived backups (if any) are deleted
+- The deleted account cannot be recovered
+
+fin294 does not retain personal data after account deletion.
+
+If you are unable to access the app, you may request account deletion by contacting:
+Email: kalaichelvan294@gmail.com

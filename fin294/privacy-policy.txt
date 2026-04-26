@@ -189,13 +189,21 @@ fin294 uses the following third-party services:
 
 These services process data in accordance with their respective privacy policies.
 
+
 ------------------------------------
 13. CHANGES TO THIS PRIVACY POLICY
 ------------------------------------
 
-We may update this Privacy Policy from time to time.
+This Privacy Policy may be updated from time to time to reflect:
+- Changes in app features or functionality
+- Updates to legal, regulatory, or security requirements
+- Improvements in data handling practices
 
-Any changes will be reflected by updating the "Last updated" date. Continued use of the app indicates acceptance of the updated policy.
+When updates are made:
+- The "Last updated" date at the top of this policy will be revised
+- The latest version will be made available within the app and through the official policy link
+
+Continued use of the app after a policy update indicates acceptance of the revised Privacy Policy.
 
 ------------------------------------
 14. CONTACT INFORMATION

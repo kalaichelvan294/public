@@ -1,1 +1,191 @@
-test
+PRIVACY POLICY FOR fin294
+
+Last updated: 26 April 2026
+
+fin294 ("the App", "we", "us", or "our") is a personal finance and group expense management application built using Flutter and Firebase. This Privacy Policy explains how we collect, use, store, share, and delete personal data when you use the app.
+
+By using fin294, you agree to the terms described in this Privacy Policy.
+
+------------------------------------
+1. INFORMATION WE COLLECT
+------------------------------------
+
+We collect information necessary to provide core functionality of the app.
+
+1.1 Personal Information
+- Name
+- Email address (via Google Sign-In)
+- Profile photo (if provided by Google)
+- Phone number (optional, user-provided)
+- UPI ID (optional, user-provided)
+
+1.2 Financial Information
+- Income and expense transactions
+- Amounts, dates, categories, and notes
+- Group expense data and calculated balances
+
+1.3 Contacts Information (Optional)
+- Device contact information, accessed only with your explicit permission
+- Used solely to help identify friends who are already using fin294
+
+1.4 App Usage and Analytics Data
+- App interaction data
+- Feature usage patterns
+- Authentication and session metadata
+
+------------------------------------
+2. HOW WE COLLECT INFORMATION
+------------------------------------
+
+Data is collected when you:
+- Sign in using Google Sign-In
+- Add or manage transactions or groups
+- Update profile information
+- Grant optional permissions (contacts or Drive access)
+- Use app features
+
+------------------------------------
+3. HOW WE USE YOUR INFORMATION
+------------------------------------
+
+Your data is used to:
+- Authenticate users
+- Store and display financial records
+- Split and calculate group expenses
+- Help users find friends using the app
+- Improve app stability, performance, and features
+- Perform analytics and usage analysis
+- Provide customer support
+
+We do not use personal data for advertising or marketing.
+
+------------------------------------
+4. PAYMENTS AND UPI DISCLAIMER
+------------------------------------
+
+fin294 does NOT process payments or act as a payment service.
+
+When initiating a payment:
+- The app redirects you to a third-party UPI application
+- fin294 does not collect, store, or process bank details, cards, PINs, or credentials
+
+All payments are handled entirely by the respective UPI application under their own policies.
+
+------------------------------------
+5. DATA STORAGE AND SECURITY
+------------------------------------
+
+- Data is stored using Google Firebase services
+- Data is encrypted in transit and at rest
+- Access is protected using authentication-based security rules
+- Reasonable technical safeguards are used to prevent unauthorized access
+
+------------------------------------
+6. DATA SHARING AND DATA ACCESS
+------------------------------------
+
+We do not sell, rent, or trade user data.
+
+Data may be accessed or processed only under the following conditions:
+
+6.1 Service Providers
+- Google Firebase is used for authentication, database storage, analytics, and infrastructure
+- Google acts as a data processor on our behalf
+
+6.2 Google Drive Access (Archiving)
+With your explicit permission, the app may access your Google Drive solely to:
+- Archive or back up your fin294 data
+- Restore archived data upon user request
+
+The app does not access unrelated or personal files.
+
+6.3 Contacts Access (Finding Friends)
+With your explicit permission:
+- Contacts may be accessed to identify existing fin294 users
+- Contacts data may be processed by authorized app administrators solely to enable friend discovery and group features
+- Contacts data is not used for marketing or shared externally
+
+6.4 Analytics and App Improvement
+All collected data may be used for:
+- Analytics
+- Performance monitoring
+- Feature improvement
+- Security and fraud prevention
+
+Analytics are performed using Firebase or similar Google services. Data is not used for advertising personalization.
+
+6.5 Legal Requirements
+Data may be disclosed if required to comply with applicable laws, legal processes, or government requests.
+
+------------------------------------
+7. USER RIGHTS (INDIA – DPDP ACT, 2023)
+------------------------------------
+
+In accordance with the Digital Personal Data Protection Act (India), you have the right to:
+- Access your personal data
+- Request correction of inaccurate data
+- Withdraw consent
+- Request deletion of your personal data
+
+------------------------------------
+8. DATA DELETION AND ACCOUNT TERMINATION
+------------------------------------
+
+When a user deletes their account:
+- Personal data is permanently deleted immediately
+- Data becomes inaccessible and cannot be recovered
+- Associated authentication records are removed
+- Archived backups (if any) are deleted
+- Analytics tracking associated with the user is stopped
+
+fin294 does not retain personal data after account deletion.
+
+------------------------------------
+9. DATA RETENTION
+------------------------------------
+
+Data is retained only while your account remains active.
+
+Once deleted by the user, all personal data is permanently erased without any retention or grace period.
+
+------------------------------------
+10. CHILDREN’S PRIVACY
+------------------------------------
+
+fin294 is not intended for users under the age of 18.
+
+We do not knowingly collect personal data from children. If such data is discovered, it will be deleted immediately.
+
+------------------------------------
+11. THIRD-PARTY SERVICES
+------------------------------------
+
+fin294 uses the following third-party services:
+- Google Sign-In
+- Firebase Authentication
+- Cloud Firestore
+- Google Drive (optional, permission-based)
+
+These services process data in accordance with their respective privacy policies.
+
+------------------------------------
+12. CHANGES TO THIS PRIVACY POLICY
+------------------------------------
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be reflected by updating the "Last updated" date. Continued use of the app indicates acceptance of the updated policy.
+
+------------------------------------
+13. CONTACT INFORMATION
+------------------------------------
+
+If you have questions, concerns, or requests regarding your data or this policy, contact:
+
+Email: kalaichelvan294@gmail.com
+Developer: fin294 Team  
+Country: India
+
+------------------------------------
+END OF PRIVACY POLICY
+------------------------------------

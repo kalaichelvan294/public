@@ -13,7 +13,7 @@ What happens after deletion:
 - Your fin294 account is permanently deleted immediately
 - All personal and financial data is erased
 - Authentication credentials are removed
-- Archived backups (if any) are deleted
+- Archived backups on fin294 servers (if any) are deleted
 - The deleted account cannot be recovered
 
 fin294 does not retain personal data after account deletion.
